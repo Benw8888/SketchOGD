@@ -1,16 +1,5 @@
-# PCA-OGD
-Official code for [A Theoretical Analysis of Catastrophic Forgetting through the NTK
-Overlap Matrix](https://arxiv.org/abs/2010.04003) (AISTATS 2021)
-
-
-
-<center>
-<img src="img/cover_image.png"  width="600" height="350" />
-</center>
-
-
-
-
+# SketchOGD
+Official code for [SketchOGD: Memory-Efficient Continual Learning]() 
 
 
 
@@ -21,7 +10,7 @@ Overlap Matrix](https://arxiv.org/abs/2010.04003) (AISTATS 2021)
 
 - Clone the repo
 - Run scripts:  `scripts/commands` 
-- Hyperparameters in Table 4 of the Appendix of the [paper](https://arxiv.org/pdf/2010.04003.pdf) 
+- Hyperparameters in Table 4 of the Appendix of the [PCA-OGD paper](https://arxiv.org/pdf/2010.04003.pdf) 
                
 ## Also includes:
 - Implementation of [Orthgohonal Gradient Descent (OGD)](https://arxiv.org/pdf/2010.04003.pdf) (Farajtabar et al., 2019)
@@ -30,11 +19,11 @@ Overlap Matrix](https://arxiv.org/abs/2010.04003) (AISTATS 2021)
 ## To cite:
 
 ```
-@article{doan2020theoretical,
-  title={A Theoretical Analysis of Catastrophic Forgetting through the NTK Overlap Matrix},
-  author={Doan, Thang and Bennani, Mehdi and Mazoure, Bogdan and Rabusseau, Guillaume and Alquier, Pierre},
-  journal={arXiv preprint arXiv:2010.04003},
-  year={2020}
+@article{wright2023,
+  title={SketchOGD: Memory-Efficient Continual Learning},
+  author={Wright, Benjamin and Min, Youngjae and Bernstein, Jeremy and Azizan, Navid},
+  journal={},
+  year={2023}
 }
 ```
-# SketchOGD
+
