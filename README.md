@@ -9,8 +9,7 @@ Official code for [SketchOGD: Memory-Efficient Continual Learning]()
 ## Instructions
 
 - Clone the repo
-- Run scripts:  `scripts/commands` 
-- Hyperparameters in Table 4 of the Appendix of the [PCA-OGD paper](https://arxiv.org/pdf/2010.04003.pdf) 
+- Run scripts:  `scripts/myScript.sh`
                
 ## Also includes:
 - Implementation of [Orthgohonal Gradient Descent (OGD)](https://arxiv.org/pdf/2010.04003.pdf) (Farajtabar et al., 2019)
