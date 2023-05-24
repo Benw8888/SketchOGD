@@ -1,5 +1,5 @@
 # SketchOGD
-Official code for [SketchOGD: Memory-Efficient Continual Learning]() 
+Official code for [SketchOGD: Memory-Efficient Continual Learning]
 
 
 
