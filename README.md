@@ -18,9 +18,9 @@ Official code for [SketchOGD: Memory-Efficient Continual Learning]()
 ## To cite:
 
 ```
-@article{wright2023,
+@article{,
   title={SketchOGD: Memory-Efficient Continual Learning},
-  author={Wright, Benjamin and Min, Youngjae and Bernstein, Jeremy and Azizan, Navid},
+  author={anonymous authors},
   journal={},
   year={2023}
 }
